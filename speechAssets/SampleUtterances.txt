@@ -1,0 +1,7 @@
+InstallAppIntent Install {Application}
+InstallAppIntent Install {Application} in my car
+InstallAppIntent Please install {Application} in my car
+InstallAppIntent Please install {Application}
+InstallAppIntent {Application}
+InstallAppIntent {Application} in my car
+WhatsMyAppStatusIntent What is the status
